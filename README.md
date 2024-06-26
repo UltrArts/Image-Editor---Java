@@ -13,7 +13,7 @@ Image manipulator software developed in Java
     -  Shappe
     -  Shadow
     -  Frame
-    -  Border Size
-      ![Alt Uploading the image 3](images/5.jPEG)
--And Save the modified image
+    -  Border Size 
+ ![Alt Uploading the image 3](images/5.jPEG)
+- And Save the modified image
 ![Alt Uploading the image 3](images/6.jPEG)
