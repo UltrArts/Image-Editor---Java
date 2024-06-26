@@ -1,6 +1,7 @@
 # Image-Editor---Java
 Image manipulator software developed in Java
-##Steps to use:
+
+## Steps to use:
 - Run the project
   
 ![Alt Running the project](images/1.jpeg)
