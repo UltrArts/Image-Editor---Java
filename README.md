@@ -18,10 +18,10 @@ Image manipulator software developed in Java
     -  Shadow
     -  Frame
     -  Border Size
-    - 
+     
  ![Alt Uploading the image 3](images/5.jpeg)
 
 
 - And Save the modified image
-- 
+  
 ![Alt Uploading the image 3](images/6.jpeg)
