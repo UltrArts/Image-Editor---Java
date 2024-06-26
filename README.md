@@ -25,3 +25,8 @@ Image manipulator software developed in Java
 - And Save the modified image
   
 ![Alt Uploading the image 3](images/6.jpeg)
+![Alt Uploading the image 3](images/7.jpeg)
+
+- Open the edited imagem from the path You saved.
+
+![Alt Uploading the image 3](images/8.jpeg)
